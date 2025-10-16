@@ -1,0 +1,69 @@
+[metadata]
+name = "saptechedlightfox"
+author = "EdenEast"
+origin_url = "https://github.com/EdenEast/nightfox.nvim"
+
+[colors]
+foreground = "#002A86"
+background = "#EBF8FF"
+cursor_bg = "#002A86"
+cursor_border = "#002A86"
+cursor_fg = "#EBF8FF"
+compose_cursor = '#cc00dc'
+selection_bg = "#FF8AF0"
+selection_fg = "#002A86"
+scrollbar_thumb = "#FF8AF0"
+split = "#89D1FF"
+visual_bell = "#002A86"
+ansi = ["#5d36ff", "#cc00dc", "#049f9a", "#89d1ff", "#002a86", "#1b90ff", "#049f9a", "#ffffff"]
+brights = ["#7554ff", "#d426e1", "#2aada9", "#9bd8ff", "#264a98", "#3da1ff", "#2aada9", "#ffffff"]
+
+[colors.indexed]
+16 = "#cc00dc"
+17 = "#cc00dc"
+
+[colors.tab_bar]
+background = "#89D1FF"
+inactive_tab_edge = "#89D1FF"
+inactive_tab_edge_hover = "#C2FCEE"
+
+[colors.tab_bar.active_tab]
+bg_color = "#FF8AF0"
+fg_color = "#EBF8FF"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#C2FCEE"
+fg_color = "#002A86"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#2CE0BF"
+fg_color = "#002A86"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab]
+bg_color = "#EBF8FF"
+fg_color = "#002A86"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#2CE0BF"
+fg_color = "#002A86"
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+

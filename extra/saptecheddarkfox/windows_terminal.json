@@ -1,0 +1,23 @@
+{
+    "name" : "saptecheddarkfox",
+    "background" : "#00144A",
+    "foreground" : "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#FF8AF0",
+    "black" : "#5d36ff",
+    "blue" : "#1b90ff",
+    "cyan" : "#049f9a",
+    "green" : "#049f9a",
+    "purple" : "#1b90ff",
+    "red" : "#cc00dc",
+    "white" : "#ffffff",
+    "yellow" : "#89d1ff",
+    "brightBlack" : "#7554ff",
+    "brightBlue" : "#3da1ff",
+    "brightCyan" : "#2aada9",
+    "brightGreen" : "#2aada9",
+    "brightPurple" : "#3da1ff",
+    "brightRed" : "#d426e1",
+    "brightWhite" : "#ffffff",
+    "brightYellow" : "#9bd8ff"
+}

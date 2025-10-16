@@ -1,0 +1,32 @@
+# Nightfox colors for Ghostty
+## name: saptecheddarkfox
+## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/saptecheddarkfox/saptecheddarkfox.ghostty
+
+background = #00144A
+foreground = #FFFFFF
+selection-background = #FF8AF0
+selection-foreground = #FFFFFF
+cursor-color = #FFFFFF
+
+# normal
+palette = 0=#5d36ff
+palette = 1=#cc00dc
+palette = 2=#049f9a
+palette = 3=#89d1ff
+palette = 4=#1b90ff
+palette = 5=#1b90ff
+palette = 6=#049f9a
+palette = 7=#ffffff
+
+# bright
+palette = 8=#7554ff
+palette = 9=#d426e1
+palette = 10=#2aada9
+palette = 11=#9bd8ff
+palette = 12=#3da1ff
+palette = 13=#3da1ff
+palette = 14=#2aada9
+palette = 15=#ffffff
+
+# extended colors
+palette = 16=#cc00dc

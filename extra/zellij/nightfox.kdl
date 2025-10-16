@@ -80,6 +80,32 @@ themes {
     black "#444c5e"
     white "#abb1bb"
   }
+  saptecheddarkfox {
+    bg "#FF8AF0"
+    fg "#FFFFFF"
+    red "#cc00dc"
+    green "#049f9a"
+    blue "#1b90ff"
+    yellow "#89d1ff"
+    magenta "#1b90ff"
+    orange "#cc00dc"
+    cyan "#049f9a"
+    black "#2CE0BF"
+    white "#FFFFFF"
+  }
+  saptechedlightfox {
+    bg "#FF8AF0"
+    fg "#002A86"
+    red "#cc00dc"
+    green "#049f9a"
+    blue "#002a86"
+    yellow "#89d1ff"
+    magenta "#1b90ff"
+    orange "#cc00dc"
+    cyan "#049f9a"
+    black "#2CE0BF"
+    white "#002A86"
+  }
   terafox {
     bg "#293e40"
     fg "#e6eaea"

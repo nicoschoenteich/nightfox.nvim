@@ -1,0 +1,79 @@
+# Nightfox Alacritty Colors
+## name: saptecheddarkfox
+## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/saptecheddarkfox/alacritty.toml
+
+[colors.primary]
+background = "#00144A"
+foreground = "#FFFFFF"
+dim_foreground = "#D1EFFF"
+bright_foreground = "#FFFFFF"
+
+[colors.cursor]
+text = "#FFFFFF"
+cursor = "#FFFFFF"
+
+[colors.vi_mode_cursor]
+text = "#FFFFFF"
+cursor = "#049f9a"
+
+[colors.search.matches]
+foreground = "#FFFFFF"
+background = "#89D1FF"
+
+[colors.search.focused_match]
+foreground = "#FFFFFF"
+background = "#049f9a"
+
+[colors.footer_bar]
+foreground = "#FFFFFF"
+background = "#2CE0BF"
+
+[colors.hints.start]
+foreground = "#FFFFFF"
+background = "#cc00dc"
+
+[colors.hints.end]
+foreground = "#FFFFFF"
+background = "#2CE0BF"
+
+[colors.selection]
+text = "#FFFFFF"
+background = "#FF8AF0"
+
+[colors.normal]
+black = "#5d36ff"
+red = "#cc00dc"
+green = "#049f9a"
+yellow = "#89d1ff"
+blue = "#1b90ff"
+magenta = "#1b90ff"
+cyan = "#049f9a"
+white = "#ffffff"
+
+[colors.bright]
+black = "#7554ff"
+red = "#d426e1"
+green = "#2aada9"
+yellow = "#9bd8ff"
+blue = "#3da1ff"
+magenta = "#3da1ff"
+cyan = "#2aada9"
+white = "#ffffff"
+
+[colors.dim]
+black = "#4f2ed9"
+red = "#ad00bb"
+green = "#038783"
+yellow = "#74b2d9"
+blue = "#177ad9"
+magenta = "#177ad9"
+cyan = "#038783"
+white = "#d9d9d9"
+
+[[colors.indexed_colors]]
+index = 16
+color = "#cc00dc"
+
+[[colors.indexed_colors]]
+index = 17
+color = "#cc00dc"

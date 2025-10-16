@@ -1,0 +1,23 @@
+{
+    "name" : "saptechedlightfox",
+    "background" : "#EBF8FF",
+    "foreground" : "#002A86",
+    "cursorColor": "#002A86",
+    "selectionBackground": "#FF8AF0",
+    "black" : "#5d36ff",
+    "blue" : "#002a86",
+    "cyan" : "#049f9a",
+    "green" : "#049f9a",
+    "purple" : "#1b90ff",
+    "red" : "#cc00dc",
+    "white" : "#ffffff",
+    "yellow" : "#89d1ff",
+    "brightBlack" : "#7554ff",
+    "brightBlue" : "#264a98",
+    "brightCyan" : "#2aada9",
+    "brightGreen" : "#2aada9",
+    "brightPurple" : "#3da1ff",
+    "brightRed" : "#d426e1",
+    "brightWhite" : "#ffffff",
+    "brightYellow" : "#9bd8ff"
+}
