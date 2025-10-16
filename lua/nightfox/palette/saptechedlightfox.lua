@@ -22,7 +22,7 @@ local palette = {
   comment = "#89D1FF",
 
   bg0     = "#89D1FF", -- Dark bg (status line and float)
-  bg1     = "#D1EFFF", -- Default bg
+  bg1     = "#EBF8FF", -- Default bg
   bg2     = "#C2FCEE", -- Lighter bg (colorcolm folds)
   bg3     = "#2CE0BF", -- Lighter bg (cursor line)
   bg4     = "#89D1FF", -- Conceal, border fg
