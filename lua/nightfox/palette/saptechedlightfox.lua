@@ -8,32 +8,32 @@ local meta = {
 
 -- stylua: ignore
 local palette = {
-  black   = Shade.new("#352c24", 0.15, -0.15, true),
-  red     = Shade.new("#a5222f", 0.15, -0.15, true),
-  green   = Shade.new("#396847", 0.15, -0.15, true),
-  yellow  = Shade.new("#AC5402", 0.15, -0.15, true),
-  blue    = Shade.new("#2848a9", 0.15, -0.15, true),
-  magenta = Shade.new("#6e33ce", 0.15, -0.15, true),
-  cyan    = Shade.new("#287980", 0.15, -0.15, true),
-  white   = Shade.new("#f2e9e1", 0.15, -0.15, true),
-  orange  = Shade.new("#955f61", 0.15, -0.15, true),
-  pink    = Shade.new("#a440b5", 0.15, -0.15, true),
+  black   = Shade.new("#5D36FF", 0.15, -0.15, true),
+  red     = Shade.new("#CC00DC", 0.15, -0.15, true),
+  green   = Shade.new("#049F9A", 0.15, -0.15, true),
+  yellow  = Shade.new("#89D1FF", 0.15, -0.15, true),
+  blue    = Shade.new("#002A86", 0.15, -0.15, true),
+  magenta = Shade.new("#1B90FF", 0.15, -0.15, true),
+  cyan    = Shade.new("#049F9A", 0.15, -0.15, true),
+  white   = Shade.new("#FFFFFF", 0.15, -0.15, true),
+  orange  = Shade.new("#CC00DC", 0.15, -0.15, true),
+  pink    = Shade.new("#CC00DC", 0.15, -0.15, true),
 
-  comment = "#837a72",
+  comment = "#89D1FF",
 
-  bg0     = "#e4dcd4", -- Dark bg (status line and float)
-  bg1     = "#f6f2ee", -- Default bg
-  bg2     = "#dbd1dd", -- Lighter bg (colorcolm folds)
-  bg3     = "#d3c7bb", -- Lighter bg (cursor line)
-  bg4     = "#aab0ad", -- Conceal, border fg
+  bg0     = "#89D1FF", -- Dark bg (status line and float)
+  bg1     = "#D1EFFF", -- Default bg
+  bg2     = "#C2FCEE", -- Lighter bg (colorcolm folds)
+  bg3     = "#2CE0BF", -- Lighter bg (cursor line)
+  bg4     = "#89D1FF", -- Conceal, border fg
 
-  fg0     = "#302b5d", -- Lighter fg
-  fg1     = "#3d2b5a", -- Default fg
-  fg2     = "#643f61", -- Darker fg (status line)
-  fg3     = "#824d5b", -- Darker fg (line numbers, fold colums)
+  fg0     = "#1B90FF", -- Lighter fg
+  fg1     = "#002A86", -- Default fg
+  fg2     = "#002A86", -- Darker fg (status line)
+  fg3     = "#FF8AF0", -- Darker fg (line numbers, fold colums)
 
-  sel0    = "#e7d2be", -- Popup bg, visual selection bg
-  sel1    = "#a4c1c2", -- Popup sel bg, search bg
+  sel0    = "#FF8AF0", -- Popup bg, visual selection bg
+  sel1    = "#89D1FF", -- Popup sel bg, search bg
 }
 
 local function generate_spec(pal)
