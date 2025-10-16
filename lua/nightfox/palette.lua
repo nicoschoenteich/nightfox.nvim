@@ -43,6 +43,7 @@ M.foxes = {
   "duskfox",
   "nightfox",
   "nordfox",
+  "saptechedlightfox",
   "terafox",
 }
 
