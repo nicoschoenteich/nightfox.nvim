@@ -1,0 +1,26 @@
+# Nightfox Warp Colors
+# Style: saptecheddarkfox
+# Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/saptecheddarkfox/warp.yaml
+accent:     '#FFFFFF'
+background: '#00144A'
+foreground: '#FFFFFF'
+details:    'lighter'
+terminal_colors:
+  normal:
+    black:   '#5d36ff'
+    red:     '#cc00dc'
+    green:   '#049f9a'
+    yellow:  '#89d1ff'
+    blue:    '#1b90ff'
+    magenta: '#1b90ff'
+    cyan:    '#049f9a'
+    white:   '#ffffff'
+  bright:
+    black:   '#7554ff'
+    red:     '#d426e1'
+    green:   '#2aada9'
+    yellow:  '#9bd8ff'
+    blue:    '#3da1ff'
+    magenta: '#3da1ff'
+    cyan:    '#2aada9'
+    white:   '#ffffff'

@@ -4,3 +4,4 @@ test/plenary
 panvimdoc
 .direnv
 .repro
+.DS_Store

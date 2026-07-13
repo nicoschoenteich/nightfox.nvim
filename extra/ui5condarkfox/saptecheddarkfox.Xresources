@@ -1,0 +1,21 @@
+! Nightfox colors for Xresources
+! Style: saptecheddarkfox
+! Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/saptecheddarkfox/saptecheddarkfox.Xresources
+*background: #00144A
+*foreground: #FFFFFF
+*color0:  #5d36ff
+*color1:  #cc00dc
+*color2:  #049f9a
+*color3:  #89d1ff
+*color4:  #1b90ff
+*color5:  #1b90ff
+*color6:  #049f9a
+*color7:  #ffffff
+*color8:  #7554ff
+*color9:  #d426e1
+*color10: #2aada9
+*color11: #9bd8ff
+*color12: #3da1ff
+*color13: #3da1ff
+*color14: #2aada9
+*color15: #ffffff
