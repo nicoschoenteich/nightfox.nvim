@@ -11,7 +11,7 @@ cursor-color = #000000
 # normal
 palette = 0=#223548
 palette = 1=#ba066c
-palette = 2=#30914c
+palette = 2=#a5e85f
 palette = 3=#ffa42c
 palette = 4=#ff5d17
 palette = 5=#8838ec
@@ -21,7 +21,7 @@ palette = 7=#ffffff
 # bright
 palette = 8=#435363
 palette = 9=#c42b82
-palette = 10=#4fa267
+palette = 10=#b3eb77
 palette = 11=#ffb24c
 palette = 12=#ff753a
 palette = 13=#9a56ef
