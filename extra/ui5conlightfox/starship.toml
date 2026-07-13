@@ -25,17 +25,17 @@ palette = "ui5conlightfox"
 
 [palettes.ui5conlightfox]
 red = "#ba066c"
-green = "#80b44a"
+green = "#719f41"
 purple = "#8838ec"
-yellow = "#ffa42c"
+yellow = "#df8f25"
 os_bg = "#646363"
-os_fg = "#F5F5F5"
-dir_bg = "#80b44a"
+os_fg = "#ffffff"
+dir_bg = "#719f41"
 dir_fg = "#FFFFFF"
-git_bg = "#ffa42c"
-git_fg = "#F5F5F5"
-lang_bg = "#ff5d17"
-lang_fg = "#F5F5F5"
+git_bg = "#df8f25"
+git_fg = "#ffffff"
+lang_bg = "#e45314"
+lang_fg = "#ffffff"
 
 [os]
 disabled = false
@@ -137,7 +137,7 @@ format = '[[ $symbol( $version) ](fg:lang_fg bg:lang_bg)]($style)'
 
 [character]
 disabled = false
-success_symbol = '[](bold fg:#80b44a)'
+success_symbol = '[](bold fg:#719f41)'
 error_symbol = '[](bold fg:#ba066c)'
 vimcmd_symbol = '[](bold fg:green)'
 vimcmd_replace_one_symbol = '[](bold fg:purple)'

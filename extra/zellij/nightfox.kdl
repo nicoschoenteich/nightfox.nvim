@@ -120,16 +120,16 @@ themes {
     white "#cbd9d8"
   }
   ui5conlightfox {
-    bg "#FFA42C"
+    bg "#ffba60"
     fg "#000000"
     red "#ba066c"
-    green "#80b44a"
-    blue "#ff5d17"
-    yellow "#ffa42c"
+    green "#719f41"
+    blue "#e45314"
+    yellow "#df8f25"
     magenta "#8838ec"
     orange "#0090da"
     cyan "#3b4673"
-    black "#F5F5F5"
+    black "#ffffff"
     white "#000000"
   }
 }

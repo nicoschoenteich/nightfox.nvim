@@ -10,9 +10,9 @@ local meta = {
 local palette = {
   black   = Shade.new("#223548", 0.15, -0.15, true),
   red     = Shade.new("#BA066C", 0.15, -0.15, true),
-  green   = Shade.new("#80b44a", 0.15, -0.15, true),
-  yellow  = Shade.new("#FFA42C", 0.15, -0.15, true),
-  blue    = Shade.new("#FF5D17", 0.15, -0.15, true),
+  green   = Shade.new("#719f41", 0.15, -0.15, true),
+  yellow  = Shade.new("#df8f25", 0.15, -0.15, true),
+  blue    = Shade.new("#e45314", 0.15, -0.15, true),
   magenta = Shade.new("#8838EC", 0.15, -0.15, true),
   cyan    = Shade.new("#3B4673", 0.15, -0.15, true),
   white   = Shade.new("#FFFFFF", 0.15, -0.15, true),
@@ -21,10 +21,10 @@ local palette = {
 
   comment = "#646363",
 
-  bg0     = "#F5F5F5", -- Dark bg (status line and float)
+  bg0     = "#ffffff", -- Dark bg (status line and float)
   bg1     = "#FFFFFF", -- Default bg
-  bg2     = "#F5F5F5", -- Lighter bg (colorcolm folds)
-  bg3     = "#F5F5F5", -- Lighter bg (cursor line)
+  bg2     = "#ffffff", -- Lighter bg (colorcolm folds)
+  bg3     = "#ffffff", -- Lighter bg (cursor line)
   bg4     = "#646363", -- Conceal, border fg
 
   fg0     = "#646363", -- Lighter fg
@@ -32,8 +32,8 @@ local palette = {
   fg2     = "#000000", -- Darker fg (status line)
   fg3     = "#646363", -- Darker fg (line numbers, fold colums)
 
-  sel0    = "#FFA42C", -- Popup bg, visual selection bg
-  sel1    = "#FF5D17", -- Popup sel bg, search bg
+  sel0    = "#ffba60", -- Popup bg, visual selection bg
+  sel1    = "#ffba60", -- Popup sel bg, search bg
 }
 
 local function generate_spec(pal)

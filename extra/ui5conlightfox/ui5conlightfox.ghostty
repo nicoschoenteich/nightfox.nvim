@@ -4,16 +4,16 @@
 
 background = #FFFFFF
 foreground = #000000
-selection-background = #FFA42C
+selection-background = #ffba60
 selection-foreground = #000000
 cursor-color = #000000
 
 # normal
 palette = 0=#223548
 palette = 1=#ba066c
-palette = 2=#80b44a
-palette = 3=#ffa42c
-palette = 4=#ff5d17
+palette = 2=#719f41
+palette = 3=#df8f25
+palette = 4=#e45314
 palette = 5=#8838ec
 palette = 6=#3b4673
 palette = 7=#ffffff
@@ -21,9 +21,9 @@ palette = 7=#ffffff
 # bright
 palette = 8=#435363
 palette = 9=#c42b82
-palette = 10=#93bf65
-palette = 11=#ffb24c
-palette = 12=#ff753a
+palette = 10=#86ad5e
+palette = 11=#e4a046
+palette = 12=#e86d37
 palette = 13=#9a56ef
 palette = 14=#586288
 palette = 15=#ffffff

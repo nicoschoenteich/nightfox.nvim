@@ -2,12 +2,12 @@
 # Style: ui5conlightfox
 # Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/ui5conlightfox.fish
 set -l foreground 000000
-set -l selection FFA42C
+set -l selection ffba60
 set -l comment 646363
 set -l red ba066c
 set -l orange 0090da
-set -l yellow ffa42c
-set -l green 80b44a
+set -l yellow df8f25
+set -l green 719f41
 set -l purple 8838ec
 set -l cyan 3b4673
 set -l pink ba066c
