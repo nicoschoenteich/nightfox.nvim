@@ -13,7 +13,7 @@ palette = 0=#223548
 palette = 1=#ba066c
 palette = 2=#30914c
 palette = 3=#ffa42c
-palette = 4=#0090da
+palette = 4=#ff5d17
 palette = 5=#8838ec
 palette = 6=#3b4673
 palette = 7=#ffffff
@@ -23,10 +23,10 @@ palette = 8=#435363
 palette = 9=#c42b82
 palette = 10=#4fa267
 palette = 11=#ffb24c
-palette = 12=#26a1e0
+palette = 12=#ff753a
 palette = 13=#9a56ef
 palette = 14=#586288
 palette = 15=#ffffff
 
 # extended colors
-palette = 16=#ff5d17
+palette = 16=#0090da

@@ -5,7 +5,7 @@ set -l foreground 000000
 set -l selection FFA42C
 set -l comment 646363
 set -l red ba066c
-set -l orange ff5d17
+set -l orange 0090da
 set -l yellow ffa42c
 set -l green 30914c
 set -l purple 8838ec

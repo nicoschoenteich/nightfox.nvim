@@ -34,7 +34,7 @@ dir_bg = "#30914c"
 dir_fg = "#FFFFFF"
 git_bg = "#ffa42c"
 git_fg = "#F5F5F5"
-lang_bg = "#0090da"
+lang_bg = "#ff5d17"
 lang_fg = "#F5F5F5"
 
 [os]

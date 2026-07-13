@@ -18,7 +18,7 @@ cursor = "#3b4673"
 
 [colors.search.matches]
 foreground = "#000000"
-background = "#0090DA"
+background = "#FF5D17"
 
 [colors.search.focused_match]
 foreground = "#000000"
@@ -30,7 +30,7 @@ background = "#F5F5F5"
 
 [colors.hints.start]
 foreground = "#000000"
-background = "#ff5d17"
+background = "#0090da"
 
 [colors.hints.end]
 foreground = "#000000"
@@ -45,7 +45,7 @@ black = "#223548"
 red = "#ba066c"
 green = "#30914c"
 yellow = "#ffa42c"
-blue = "#0090da"
+blue = "#ff5d17"
 magenta = "#8838ec"
 cyan = "#3b4673"
 white = "#ffffff"
@@ -55,7 +55,7 @@ black = "#435363"
 red = "#c42b82"
 green = "#4fa267"
 yellow = "#ffb24c"
-blue = "#26a1e0"
+blue = "#ff753a"
 magenta = "#9a56ef"
 cyan = "#586288"
 white = "#ffffff"
@@ -65,14 +65,14 @@ black = "#1d2d3d"
 red = "#9e055c"
 green = "#297b41"
 yellow = "#d98b25"
-blue = "#007ab9"
+blue = "#d94f14"
 magenta = "#7430c9"
 cyan = "#323c62"
 white = "#d9d9d9"
 
 [[colors.indexed_colors]]
 index = 16
-color = "#ff5d17"
+color = "#0090da"
 
 [[colors.indexed_colors]]
 index = 17

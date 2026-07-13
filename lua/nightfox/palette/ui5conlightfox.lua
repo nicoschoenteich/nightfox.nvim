@@ -12,11 +12,11 @@ local palette = {
   red     = Shade.new("#BA066C", 0.15, -0.15, true),
   green   = Shade.new("#30914C", 0.15, -0.15, true),
   yellow  = Shade.new("#FFA42C", 0.15, -0.15, true),
-  blue    = Shade.new("#0090DA", 0.15, -0.15, true),
+  blue    = Shade.new("#FF5D17", 0.15, -0.15, true),
   magenta = Shade.new("#8838EC", 0.15, -0.15, true),
   cyan    = Shade.new("#3B4673", 0.15, -0.15, true),
   white   = Shade.new("#FFFFFF", 0.15, -0.15, true),
-  orange  = Shade.new("#FF5D17", 0.15, -0.15, true),
+  orange  = Shade.new("#0090DA", 0.15, -0.15, true),
   pink    = Shade.new("#BA066C", 0.15, -0.15, true),
 
   comment = "#646363",
@@ -33,7 +33,7 @@ local palette = {
   fg3     = "#646363", -- Darker fg (line numbers, fold colums)
 
   sel0    = "#FFA42C", -- Popup bg, visual selection bg
-  sel1    = "#0090DA", -- Popup sel bg, search bg
+  sel1    = "#FF5D17", -- Popup sel bg, search bg
 }
 
 local function generate_spec(pal)
