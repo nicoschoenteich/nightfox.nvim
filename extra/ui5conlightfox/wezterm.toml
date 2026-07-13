@@ -5,10 +5,10 @@ origin_url = "https://github.com/EdenEast/nightfox.nvim"
 
 [colors]
 foreground = "#000000"
-background = "#FFFFFF"
+background = "#FFF8F0"
 cursor_bg = "#000000"
 cursor_border = "#000000"
-cursor_fg = "#FFFFFF"
+cursor_fg = "#FFF8F0"
 compose_cursor = '#0090da'
 selection_bg = "#ffba60"
 selection_fg = "#000000"
@@ -29,7 +29,7 @@ inactive_tab_edge_hover = "#ffffff"
 
 [colors.tab_bar.active_tab]
 bg_color = "#646363"
-fg_color = "#FFFFFF"
+fg_color = "#FFF8F0"
 intensity = "Normal"
 italic = false
 strikethrough = false
@@ -52,7 +52,7 @@ strikethrough = false
 underline = "None"
 
 [colors.tab_bar.new_tab]
-bg_color = "#FFFFFF"
+bg_color = "#FFF8F0"
 fg_color = "#000000"
 intensity = "Normal"
 italic = false

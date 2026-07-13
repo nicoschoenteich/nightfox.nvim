@@ -3,7 +3,7 @@
 ## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/alacritty.toml
 
 [colors.primary]
-background = "#FFFFFF"
+background = "#FFF8F0"
 foreground = "#000000"
 dim_foreground = "#646363"
 bright_foreground = "#000000"

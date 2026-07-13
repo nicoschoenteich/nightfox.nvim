@@ -2,7 +2,7 @@
 ## name: ui5conlightfox
 ## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/ui5conlightfox.ghostty
 
-background = #FFFFFF
+background = #FFF8F0
 foreground = #000000
 selection-background = #ffba60
 selection-foreground = #000000

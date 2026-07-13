@@ -2,7 +2,7 @@
 # Style: ui5conlightfox
 # Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/warp.yaml
 accent:     '#000000'
-background: '#FFFFFF'
+background: '#FFF8F0'
 foreground: '#000000'
 details:    'lighter'
 terminal_colors:
