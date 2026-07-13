@@ -2,38 +2,38 @@ local C = require("nightfox.lib.color")
 local Shade = require("nightfox.lib.shade")
 
 local meta = {
-  name = "ui5condarkfox",
+  name = "ui5conlightfox",
   light = true,
 }
 
 -- stylua: ignore
 local palette = {
-  black   = Shade.new("#5D36FF", 0.15, -0.15, true),
-  red     = Shade.new("#CC00DC", 0.15, -0.15, true),
-  green   = Shade.new("#049F9A", 0.15, -0.15, true),
-  yellow  = Shade.new("#89D1FF", 0.15, -0.15, true),
-  blue    = Shade.new("#1B90FF", 0.15, -0.15, true),
-  magenta = Shade.new("#1B90FF", 0.15, -0.15, true),
-  cyan    = Shade.new("#049F9A", 0.15, -0.15, true),
+  black   = Shade.new("#223548", 0.15, -0.15, true),
+  red     = Shade.new("#BA066C", 0.15, -0.15, true),
+  green   = Shade.new("#30914C", 0.15, -0.15, true),
+  yellow  = Shade.new("#FFA42C", 0.15, -0.15, true),
+  blue    = Shade.new("#0090DA", 0.15, -0.15, true),
+  magenta = Shade.new("#8838EC", 0.15, -0.15, true),
+  cyan    = Shade.new("#3B4673", 0.15, -0.15, true),
   white   = Shade.new("#FFFFFF", 0.15, -0.15, true),
-  orange  = Shade.new("#CC00DC", 0.15, -0.15, true),
-  pink    = Shade.new("#CC00DC", 0.15, -0.15, true),
+  orange  = Shade.new("#FF5D17", 0.15, -0.15, true),
+  pink    = Shade.new("#BA066C", 0.15, -0.15, true),
 
-  comment = "#002A86",
+  comment = "#646363",
 
-  bg0     = "#1B90FF", -- Dark bg (status line and float)
-  bg1     = "#00144A", -- Default bg
-  bg2     = "#C2FCEE", -- Lighter bg (colorcolm folds)
-  bg3     = "#2CE0BF", -- Lighter bg (cursor line)
-  bg4     = "#002A86", -- Conceal, border fg
+  bg0     = "#F5F5F5", -- Dark bg (status line and float)
+  bg1     = "#FFFFFF", -- Default bg
+  bg2     = "#F5F5F5", -- Lighter bg (colorcolm folds)
+  bg3     = "#F5F5F5", -- Lighter bg (cursor line)
+  bg4     = "#646363", -- Conceal, border fg
 
-  fg0     = "#D1EFFF", -- Lighter fg
-  fg1     = "#FFFFFF", -- Default fg
-  fg2     = "#FFFFFF", -- Darker fg (status line)
-  fg3     = "#FF8AF0", -- Darker fg (line numbers, fold colums)
+  fg0     = "#646363", -- Lighter fg
+  fg1     = "#000000", -- Default fg
+  fg2     = "#000000", -- Darker fg (status line)
+  fg3     = "#646363", -- Darker fg (line numbers, fold colums)
 
-  sel0    = "#FF8AF0", -- Popup bg, visual selection bg
-  sel1    = "#89D1FF", -- Popup sel bg, search bg
+  sel0    = "#FFA42C", -- Popup bg, visual selection bg
+  sel1    = "#0090DA", -- Popup sel bg, search bg
 }
 
 local function generate_spec(pal)

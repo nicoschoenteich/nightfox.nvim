@@ -1,0 +1,23 @@
+{
+    "name" : "ui5conlightfox",
+    "background" : "#FFFFFF",
+    "foreground" : "#000000",
+    "cursorColor": "#000000",
+    "selectionBackground": "#FFA42C",
+    "black" : "#223548",
+    "blue" : "#0090da",
+    "cyan" : "#3b4673",
+    "green" : "#30914c",
+    "purple" : "#8838ec",
+    "red" : "#ba066c",
+    "white" : "#ffffff",
+    "yellow" : "#ffa42c",
+    "brightBlack" : "#435363",
+    "brightBlue" : "#26a1e0",
+    "brightCyan" : "#586288",
+    "brightGreen" : "#4fa267",
+    "brightPurple" : "#9a56ef",
+    "brightRed" : "#c42b82",
+    "brightWhite" : "#ffffff",
+    "brightYellow" : "#ffb24c"
+}

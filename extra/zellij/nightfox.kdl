@@ -119,4 +119,17 @@ themes {
     black "#254147"
     white "#cbd9d8"
   }
+  ui5conlightfox {
+    bg "#FFA42C"
+    fg "#000000"
+    red "#ba066c"
+    green "#30914c"
+    blue "#0090da"
+    yellow "#ffa42c"
+    magenta "#8838ec"
+    orange "#ff5d17"
+    cyan "#3b4673"
+    black "#F5F5F5"
+    white "#000000"
+  }
 }

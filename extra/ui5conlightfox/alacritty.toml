@@ -1,0 +1,79 @@
+# Nightfox Alacritty Colors
+## name: ui5conlightfox
+## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/alacritty.toml
+
+[colors.primary]
+background = "#FFFFFF"
+foreground = "#000000"
+dim_foreground = "#646363"
+bright_foreground = "#000000"
+
+[colors.cursor]
+text = "#000000"
+cursor = "#000000"
+
+[colors.vi_mode_cursor]
+text = "#000000"
+cursor = "#3b4673"
+
+[colors.search.matches]
+foreground = "#000000"
+background = "#0090DA"
+
+[colors.search.focused_match]
+foreground = "#000000"
+background = "#30914c"
+
+[colors.footer_bar]
+foreground = "#000000"
+background = "#F5F5F5"
+
+[colors.hints.start]
+foreground = "#000000"
+background = "#ff5d17"
+
+[colors.hints.end]
+foreground = "#000000"
+background = "#F5F5F5"
+
+[colors.selection]
+text = "#000000"
+background = "#FFA42C"
+
+[colors.normal]
+black = "#223548"
+red = "#ba066c"
+green = "#30914c"
+yellow = "#ffa42c"
+blue = "#0090da"
+magenta = "#8838ec"
+cyan = "#3b4673"
+white = "#ffffff"
+
+[colors.bright]
+black = "#435363"
+red = "#c42b82"
+green = "#4fa267"
+yellow = "#ffb24c"
+blue = "#26a1e0"
+magenta = "#9a56ef"
+cyan = "#586288"
+white = "#ffffff"
+
+[colors.dim]
+black = "#1d2d3d"
+red = "#9e055c"
+green = "#297b41"
+yellow = "#d98b25"
+blue = "#007ab9"
+magenta = "#7430c9"
+cyan = "#323c62"
+white = "#d9d9d9"
+
+[[colors.indexed_colors]]
+index = 16
+color = "#ff5d17"
+
+[[colors.indexed_colors]]
+index = 17
+color = "#ba066c"

@@ -1,0 +1,21 @@
+! Nightfox colors for Xresources
+! Style: ui5conlightfox
+! Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/ui5conlightfox.Xresources
+*background: #FFFFFF
+*foreground: #000000
+*color0:  #223548
+*color1:  #ba066c
+*color2:  #30914c
+*color3:  #ffa42c
+*color4:  #0090da
+*color5:  #8838ec
+*color6:  #3b4673
+*color7:  #ffffff
+*color8:  #435363
+*color9:  #c42b82
+*color10: #4fa267
+*color11: #ffb24c
+*color12: #26a1e0
+*color13: #9a56ef
+*color14: #586288
+*color15: #ffffff

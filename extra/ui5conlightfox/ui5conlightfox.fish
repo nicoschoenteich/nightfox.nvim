@@ -1,16 +1,16 @@
 # Nightfox Color Palette
-# Style: saptecheddarkfox
-# Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/saptecheddarkfox/saptecheddarkfox.fish
-set -l foreground FFFFFF
-set -l selection FF8AF0
-set -l comment 002A86
-set -l red cc00dc
-set -l orange cc00dc
-set -l yellow 89d1ff
-set -l green 049f9a
-set -l purple 1b90ff
-set -l cyan 049f9a
-set -l pink cc00dc
+# Style: ui5conlightfox
+# Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/ui5conlightfox.fish
+set -l foreground 000000
+set -l selection FFA42C
+set -l comment 646363
+set -l red ba066c
+set -l orange ff5d17
+set -l yellow ffa42c
+set -l green 30914c
+set -l purple 8838ec
+set -l cyan 3b4673
+set -l pink ba066c
 
 # Syntax Highlighting Colors
 set -g fish_color_normal $foreground

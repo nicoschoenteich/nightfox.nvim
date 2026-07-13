@@ -46,6 +46,7 @@ M.foxes = {
   "saptecheddarkfox",
   "saptechedlightfox",
   "terafox",
+  "ui5conlightfox",
 }
 
 local function override(color, ovr)

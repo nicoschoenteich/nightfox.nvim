@@ -1,0 +1,32 @@
+# Nightfox colors for Ghostty
+## name: ui5conlightfox
+## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/ui5conlightfox.ghostty
+
+background = #FFFFFF
+foreground = #000000
+selection-background = #FFA42C
+selection-foreground = #000000
+cursor-color = #000000
+
+# normal
+palette = 0=#223548
+palette = 1=#ba066c
+palette = 2=#30914c
+palette = 3=#ffa42c
+palette = 4=#0090da
+palette = 5=#8838ec
+palette = 6=#3b4673
+palette = 7=#ffffff
+
+# bright
+palette = 8=#435363
+palette = 9=#c42b82
+palette = 10=#4fa267
+palette = 11=#ffb24c
+palette = 12=#26a1e0
+palette = 13=#9a56ef
+palette = 14=#586288
+palette = 15=#ffffff
+
+# extended colors
+palette = 16=#ff5d17

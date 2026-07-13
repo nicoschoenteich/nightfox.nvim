@@ -1,0 +1,26 @@
+# Nightfox Warp Colors
+# Style: ui5conlightfox
+# Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/ui5conlightfox/warp.yaml
+accent:     '#000000'
+background: '#FFFFFF'
+foreground: '#000000'
+details:    'lighter'
+terminal_colors:
+  normal:
+    black:   '#223548'
+    red:     '#ba066c'
+    green:   '#30914c'
+    yellow:  '#ffa42c'
+    blue:    '#0090da'
+    magenta: '#8838ec'
+    cyan:    '#3b4673'
+    white:   '#ffffff'
+  bright:
+    black:   '#435363'
+    red:     '#c42b82'
+    green:   '#4fa267'
+    yellow:  '#ffb24c'
+    blue:    '#26a1e0'
+    magenta: '#9a56ef'
+    cyan:    '#586288'
+    white:   '#ffffff'
