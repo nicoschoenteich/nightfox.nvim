@@ -1,0 +1,21 @@
+! Nightfox colors for Xresources
+! Style: jouleworkdarkfox
+! Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/jouleworkdarkfox/jouleworkdarkfox.Xresources
+*background: #171A20
+*foreground: #F1F2F4
+*color0:  #2914a6
+*color1:  #cc44dd
+*color2:  #f1f2f4
+*color3:  #8080f7
+*color4:  #8080f7
+*color5:  #68aff9
+*color6:  #8080f7
+*color7:  #f1f2f4
+*color8:  #4937b3
+*color9:  #d460e2
+*color10: #f3f4f6
+*color11: #9393f8
+*color12: #9393f8
+*color13: #7fbbfa
+*color14: #9393f8
+*color15: #f3f4f6

@@ -1,0 +1,79 @@
+# Nightfox Alacritty Colors
+## name: jouleworkdarkfox
+## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/jouleworkdarkfox/alacritty.toml
+
+[colors.primary]
+background = "#171A20"
+foreground = "#F1F2F4"
+dim_foreground = "#F1F2F4"
+bright_foreground = "#7E879A"
+
+[colors.cursor]
+text = "#F1F2F4"
+cursor = "#F1F2F4"
+
+[colors.vi_mode_cursor]
+text = "#F1F2F4"
+cursor = "#8080f7"
+
+[colors.search.matches]
+foreground = "#F1F2F4"
+background = "#2914A6"
+
+[colors.search.focused_match]
+foreground = "#F1F2F4"
+background = "#8080f7"
+
+[colors.footer_bar]
+foreground = "#F1F2F4"
+background = "#0E0637"
+
+[colors.hints.start]
+foreground = "#F1F2F4"
+background = "#b396f8"
+
+[colors.hints.end]
+foreground = "#F1F2F4"
+background = "#0E0637"
+
+[colors.selection]
+text = "#F1F2F4"
+background = "#2914A6"
+
+[colors.normal]
+black = "#2914a6"
+red = "#cc44dd"
+green = "#f1f2f4"
+yellow = "#8080f7"
+blue = "#8080f7"
+magenta = "#68aff9"
+cyan = "#8080f7"
+white = "#f1f2f4"
+
+[colors.bright]
+black = "#4937b3"
+red = "#d460e2"
+green = "#f3f4f6"
+yellow = "#9393f8"
+blue = "#9393f8"
+magenta = "#7fbbfa"
+cyan = "#9393f8"
+white = "#f3f4f6"
+
+[colors.dim]
+black = "#23118d"
+red = "#ad3abc"
+green = "#cdcecf"
+yellow = "#6d6dd2"
+blue = "#6d6dd2"
+magenta = "#5895d4"
+cyan = "#6d6dd2"
+white = "#cdcecf"
+
+[[colors.indexed_colors]]
+index = 16
+color = "#b396f8"
+
+[[colors.indexed_colors]]
+index = 17
+color = "#cc44dd"

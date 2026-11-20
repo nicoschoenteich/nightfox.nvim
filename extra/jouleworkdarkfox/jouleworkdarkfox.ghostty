@@ -1,0 +1,32 @@
+# Nightfox colors for Ghostty
+## name: jouleworkdarkfox
+## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/jouleworkdarkfox/jouleworkdarkfox.ghostty
+
+background = #171A20
+foreground = #F1F2F4
+selection-background = #2914A6
+selection-foreground = #F1F2F4
+cursor-color = #F1F2F4
+
+# normal
+palette = 0=#2914a6
+palette = 1=#cc44dd
+palette = 2=#f1f2f4
+palette = 3=#8080f7
+palette = 4=#8080f7
+palette = 5=#68aff9
+palette = 6=#8080f7
+palette = 7=#f1f2f4
+
+# bright
+palette = 8=#4937b3
+palette = 9=#d460e2
+palette = 10=#f3f4f6
+palette = 11=#9393f8
+palette = 12=#9393f8
+palette = 13=#7fbbfa
+palette = 14=#9393f8
+palette = 15=#f3f4f6
+
+# extended colors
+palette = 16=#b396f8

@@ -1,0 +1,26 @@
+# Nightfox Warp Colors
+# Style: jouleworkdarkfox
+# Upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/jouleworkdarkfox/warp.yaml
+accent:     '#F1F2F4'
+background: '#171A20'
+foreground: '#F1F2F4'
+details:    'darker'
+terminal_colors:
+  normal:
+    black:   '#2914a6'
+    red:     '#cc44dd'
+    green:   '#f1f2f4'
+    yellow:  '#8080f7'
+    blue:    '#8080f7'
+    magenta: '#68aff9'
+    cyan:    '#8080f7'
+    white:   '#f1f2f4'
+  bright:
+    black:   '#4937b3'
+    red:     '#d460e2'
+    green:   '#f3f4f6'
+    yellow:  '#9393f8'
+    blue:    '#9393f8'
+    magenta: '#7fbbfa'
+    cyan:    '#9393f8'
+    white:   '#f3f4f6'

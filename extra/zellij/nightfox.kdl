@@ -54,6 +54,19 @@ themes {
     black "#373354"
     white "#cdcbe0"
   }
+  jouleworkdarkfox {
+    bg "#2914A6"
+    fg "#F1F2F4"
+    red "#cc44dd"
+    green "#f1f2f4"
+    blue "#8080f7"
+    yellow "#8080f7"
+    magenta "#68aff9"
+    orange "#b396f8"
+    cyan "#8080f7"
+    black "#0E0637"
+    white "#F1F2F4"
+  }
   nightfox {
     bg "#2b3b51"
     fg "#cdcecf"

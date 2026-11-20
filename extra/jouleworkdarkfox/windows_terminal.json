@@ -1,0 +1,23 @@
+{
+    "name" : "jouleworkdarkfox",
+    "background" : "#171A20",
+    "foreground" : "#F1F2F4",
+    "cursorColor": "#F1F2F4",
+    "selectionBackground": "#2914A6",
+    "black" : "#2914a6",
+    "blue" : "#8080f7",
+    "cyan" : "#8080f7",
+    "green" : "#f1f2f4",
+    "purple" : "#68aff9",
+    "red" : "#cc44dd",
+    "white" : "#f1f2f4",
+    "yellow" : "#8080f7",
+    "brightBlack" : "#4937b3",
+    "brightBlue" : "#9393f8",
+    "brightCyan" : "#9393f8",
+    "brightGreen" : "#f3f4f6",
+    "brightPurple" : "#7fbbfa",
+    "brightRed" : "#d460e2",
+    "brightWhite" : "#f3f4f6",
+    "brightYellow" : "#9393f8"
+}

@@ -41,6 +41,7 @@ M.foxes = {
   "dawnfox",
   "dayfox",
   "duskfox",
+  "jouleworkdarkfox",
   "nightfox",
   "nordfox",
   "saptecheddarkfox",
